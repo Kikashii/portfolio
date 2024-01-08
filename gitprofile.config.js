@@ -113,7 +113,7 @@ const config = {
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'medium', // medium | dev
-    username: '@rafid.nahiyan.farabi.85', // to hide blog section, keep it empty
+    username: 'rafid.nahiyan.farabi.85', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
